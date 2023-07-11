@@ -1,8 +1,8 @@
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sakilscode&data=followers,repositories,stars,commits)
 
-<h2 align="center">Hi Assalamualaikum👋, I'm <span style="color:green">SAKIL</span>...</h2>
+<h1 align="center">Hi Assalamualaikum👋, I'm <span style="color:green">SAKIL </span>...</h1>
 
-<h5 style="color:#aaa; text-align: center"> Tech Freak | Web Developer | Problem Solver </h5>
+<h4 style="color:#aaa" align="center"> Tech Freak | Web Developer | Problem Solver </h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sakilscode&label=Profile%20VIews&color=blue&style=flat" alt="SAKILsCode" />
@@ -26,8 +26,8 @@
 </p>
 
 <br>
-<!-- <h3 style="color:grey; text-align: center">That's all for now, tata..... 🙋🏻‍♂️</h3> -->
 
+<!-- 
 ### Languages & Tool:
 ##### Stacks:
 ![](https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs)
@@ -39,9 +39,13 @@
 ![](https://skillicons.dev/icons?i=nodejs,express,mongodb)
 
 ##### Others:
-![](https://skillicons.dev/icons?i=vscode,jest,git,github,md) 
+![](https://skillicons.dev/icons?i=vscode,jest,git,github,md) -->
+
 
 <hr/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilscode&hide_border=true&layout=compact"/>
 </p>
+
+
+<h2 style="color:grey;" align="center">That's all for now, tata..... 🙋🏻‍♂️</h2>
