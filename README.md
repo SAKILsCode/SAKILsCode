@@ -21,14 +21,15 @@
 <p align="left">
   <a href="https://linkedin.com/in/md-sakil-hasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MD Sakil Hasan - SAKILsCode" height="30" width="40" /></a>
   <a href="https://instagram.com/SAKILsCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SAKILsCode" height="30" width="40" /></a>
+  <a href="https://www.threads.net/@SAKILsCode" target="blank"><img align="center" src="https://github.com/SAKILsCode/SAKILsCode/blob/main/assets/threads_logo.png?raw=true" alt="SAKILsCode" height="32"/></a>
   <a href="https://www.hackerrank.com/SAKILsCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="SAKILsCode" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/SAKILsCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SAKILsCode" height="30" width="40" /></a>
 </p>
 
 <br>
 
-<!-- 
-### Languages & Tool:
+
+<!-- ### Languages & Tool:
 ##### Stacks:
 ![](https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs)
 
@@ -39,7 +40,10 @@
 ![](https://skillicons.dev/icons?i=nodejs,express,mongodb)
 
 ##### Others:
-![](https://skillicons.dev/icons?i=vscode,jest,git,github,md) -->
+![](https://skillicons.dev/icons?i=vscode,jest,git,github,md)
+
+
+<img align="center" src="./assets/notion_logo.svg" alt="Notion" height="50" title="Notion for documentation" /><img align="center" src="./assets/swagger.svg" alt="Swagger" title="Swagger OpenAPI Spec" height="50" /> -->
 
 
 <hr/>
