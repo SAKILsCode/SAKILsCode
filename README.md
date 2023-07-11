@@ -1,16 +1,44 @@
-### Hi there 👋
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sakilscode&data=followers,repositories,stars,commits)
 
-<!--
-**SAKILsCode/SAKILsCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi Assalamualaikum👋, I'm <span style="color:green">SAKIL</span>...</h2>
 
-Here are some ideas to get you started:
+<h5 style="color:#aaa; text-align: center"> Tech Freak | Web Developer | Problem Solver </h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakilscode&label=Profile%20VIews&color=blue&style=flat" alt="SAKILsCode" />
+</p>
+
+##### Right now, I'm_
+
+- 🔭 Wondering around the web
+- 👨🏻‍💻 Familiar with full-stack technologies (Javascript Ecosystem)
+- 📫 Reach me 👉🏻 [HERE](mailto:mdsakilhasan833@gmail.com)
+
+<br/>
+
+### Connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/md-sakil-hasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MD Sakil Hasan - SAKILsCode" height="30" width="40" /></a>
+  <a href="https://instagram.com/SAKILsCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SAKILsCode" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/SAKILsCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="SAKILsCode" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/SAKILsCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SAKILsCode" height="30" width="40" /></a>
+</p>
+
+<br>
+<!-- <h3 style="color:grey; text-align: center">That's all for now, tata..... 🙋🏻‍♂️</h3> -->
+
+### Languages & Tool:
+**Stacks:**
+![](https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs)
+**Front-end specific:**
+![](https://skillicons.dev/icons?i=react,redux,nextjs,styledcomponents,sass,vite,html,css,mui,figma)
+**Back-end specific:**
+![](https://skillicons.dev/icons?i=nodejs,express,mongodb)
+**Others:**
+![](https://skillicons.dev/icons?i=vscode,jest,git,github,md) 
+
+<hr/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilscode&hide_border=true&layout=compact"/>
+</p>
