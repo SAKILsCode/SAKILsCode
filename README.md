@@ -29,13 +29,16 @@
 <!-- <h3 style="color:grey; text-align: center">That's all for now, tata..... 🙋🏻‍♂️</h3> -->
 
 ### Languages & Tool:
-**Stacks:**
+##### Stacks:
 ![](https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs)
-**Front-end specific:**
+
+##### Front-end specific:
 ![](https://skillicons.dev/icons?i=react,redux,nextjs,styledcomponents,sass,vite,html,css,mui,figma)
-**Back-end specific:**
+
+##### Back-end specific:
 ![](https://skillicons.dev/icons?i=nodejs,express,mongodb)
-**Others:**
+
+##### Others:
 ![](https://skillicons.dev/icons?i=vscode,jest,git,github,md) 
 
 <hr/>
