@@ -11,7 +11,7 @@
 ##### Right now, I'm_
 
 - 🔭 Wondering around the web
-- 👨🏻‍💻 Familiar with full-stack technologies (Javascript Ecosystem)
+- 👨🏻‍💻 Familiar with **full-stack technologies** (Javascript Ecosystem)
 - 📫 Reach me 👉🏻 [HERE](mailto:mdsakilhasan833@gmail.com)
 
 <br/>
