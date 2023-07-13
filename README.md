@@ -1,6 +1,6 @@
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sakilscode&data=followers,repositories,stars,commits)
 
-<h1 align="center">Hi Assalamualaikum👋, I'm <span style="color:green">SAKIL </span>...</h1>
+<h1 align="center">Hi Assalamualaikum👋, I'm SAKIL ...</h1>
 
 <h4 style="color:#aaa" align="center"> Tech Freak | Web Developer | Problem Solver </h4>
 
@@ -8,8 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=sakilscode&label=Profile%20VIews&color=blue&style=flat" alt="SAKILsCode" />
 </p>
 
-##### Right now, I'm_
+<img align="right" alt="GIF lalalalalaaa" src="https://github.com/SAKILsCode/SAKILsCode/blob/main/assets/Minion_with_guiter.gif?raw=true" width="250" />
 
+<br>
+
+##### Right now, I'm_
 - 🔭 Wondering around the web
 - 👨🏻‍💻 Familiar with **full-stack technologies** (Javascript Ecosystem)
 - 📫 Reach me 👉🏻 [HERE](mailto:mdsakilhasan833@gmail.com)
@@ -28,8 +31,8 @@
 
 <br>
 
-
-<!-- ### Languages & Tool:
+<!-- 
+### Languages & Tool:
 ##### Stacks:
 ![](https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs)
 
@@ -45,11 +48,10 @@
 
 <img align="center" src="./assets/notion_logo.svg" alt="Notion" height="50" title="Notion for documentation" /><img align="center" src="./assets/swagger.svg" alt="Swagger" title="Swagger OpenAPI Spec" height="50" /> -->
 
-
-<hr/>
+<hr>
+<br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilscode&hide_border=true&layout=compact"/>
 </p>
-
 
 <h2 style="color:grey;" align="center">That's all for now, tata..... 🙋🏻‍♂️</h2>
