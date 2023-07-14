@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi Assalamualaikum👋, I'm SAKIL ...</h1>
 
-<h4 style="color:#aaa" align="center"> Tech Freak | Web Developer | Problem Solver </h4>
+<h4 align="center"> Tech Freak | Web Developer | Problem Solver </h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sakilscode&label=Profile%20VIews&color=blue&style=flat" alt="SAKILsCode" />
