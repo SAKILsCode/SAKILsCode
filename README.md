@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=sakilscode&label=Profile%20VIews&color=blue&style=flat" alt="SAKILsCode" />
 </p>
 
-<img align="right" alt="Modification of 'Animation Fire GIF By Chris Gannon'" src="https://raw.githubusercontent.com/SAKILsCode/SAKILsCode/main/assets/sakilscode_fire.gif" width="430" />
+<img align="right" alt="Modification of 'Animation Fire GIF By Chris Gannon'" src="https://raw.githubusercontent.com/SAKILsCode/SAKILsCode/main/assets/sakilscode_fire.gif" width="390" />
 
 <br>
 
