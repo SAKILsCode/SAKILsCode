@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=sakilscode&label=Profile%20VIews&color=blue&style=flat" alt="SAKILsCode" />
 </p>
 
-<img align="right" alt="GIF lalalalalaaa" src="https://github.com/SAKILsCode/SAKILsCode/blob/main/assets/Minion_with_guiter.gif?raw=true" width="250" />
+<img align="right" alt="GIF lalalalalaaa" src="https://raw.githubusercontent.com/SAKILsCode/SAKILsCode/main/assets/sakilscode_fire.gif" width="430" />
 
 <br>
 
