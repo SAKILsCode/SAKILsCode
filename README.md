@@ -1,14 +1,12 @@
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sakilscode&data=followers,repositories,stars,commits)
-
 <h1 align="center">Hi Assalamualaikum👋, I'm SAKIL ...</h1>
 
-<h4 align="center"> Tech Freak | Web Developer | Problem Solver </h4>
+<h4 align="center"> Web Developer | Programmer | Problem Solver </h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sakilscode&label=Profile%20VIews&color=blue&style=flat" alt="SAKILsCode" />
 </p>
 
-<img align="right" alt="Modification of 'Animation Fire GIF By Chris Gannon'" title="আগুন লাগায় দিছিইইই.....................!" src="https://raw.githubusercontent.com/SAKILsCode/SAKILsCode/main/assets/sakilscode_fire.gif" height="300" />
+<img align="right" alt="Modification of 'Animation Fire GIF By Chris Gannon'" title="আগুন লাগায় দিছিইইই.....................!" src="https://raw.githubusercontent.com/SAKILsCode/SAKILsCode/main/assets/fire.gif" height="300" />
 
 <br>
 
@@ -51,7 +49,6 @@
 <hr>
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilscode&hide_border=true&layout=compact"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilscode&&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-<h2 style="color:grey;" align="center">That's all for now, tata..... 🙋🏻‍♂️</h2>
+<h3 style="color:grey;" align="center">That's all for now, tata..... 🙋🏻‍♂️</h3>
