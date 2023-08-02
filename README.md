@@ -1,4 +1,4 @@
-<h1 align="center">Hi Assalamualaikum👋, I'm SAKIL ...</h1>
+<h1 align="center">Hi Assalamualaikum👋, I'm SAKIL . . .</h1>
 
 <h4 align="center"> Web Developer | Programmer | Problem Solver </h4>
 
@@ -10,8 +10,8 @@
 
 <br>
 
-##### Right now, I'm_
-- 🔭 Wondering around the web
+##### Currently, I'm_
+- 🔭 **Exploring** interesting techs
 - 👨🏻‍💻 Familiar with **full-stack technologies** (Javascript Ecosystem)
 - 📫 Reach me 👉🏻 [HERE](mailto:mdsakilhasan833@gmail.com)
 
